@@ -21,7 +21,6 @@ It blends **Apple Weather-inspired minimalism** with **glassmorphism aesthetics*
   - Visibility
 - **Hourly forecast** in a scrollable slider
 - **5-Day forecast** with clean daily cards
-- **Smooth Dark/Light theme toggle**
 
 ### **Visual & UX**
 
@@ -37,7 +36,6 @@ It blends **Apple Weather-inspired minimalism** with **glassmorphism aesthetics*
 
 | Category                    | Style Description                                    |
 | --------------------------- | ---------------------------------------------------- |
-| **Light Mode**              | Soft sky blues with warm sunlight accents            |
 | **Dark Mode**               | Deep navy/indigo with cyan glow & purple gradients   |
 | **Cards**                   | Frosted glass, backdrop blur, soft floating shadows  |
 | **Weather-Based Gradients** | Sunny amber, rainy slate, night purple, etc.         |
