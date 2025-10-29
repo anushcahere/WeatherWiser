@@ -1,3 +1,5 @@
+## Host Link - https://weatherwiser.vercel.app/
+
 # 🌤️ WeatherWiser — A Modern Weather Experience
 
 WeatherWiser is a sleek, modern weather application built using **React + TypeScript** and the **OpenWeather API**.  
